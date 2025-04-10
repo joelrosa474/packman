@@ -1,0 +1,5 @@
+class TurmaRepositorio:
+    turma: Turma
+    def __init__(self):
+        pass
+    self.turma: List[Turma] = [] 
